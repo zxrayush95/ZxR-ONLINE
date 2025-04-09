@@ -1,3 +1,4 @@
+1. Tensor2 | Time - 20S | OT
 2. Ayush | Time - 999H
 3. TestKey | Time - 1H
 4. Test | Time - 1H
@@ -5,5 +6,3 @@
 6. TENSOR09 | Time - 24H | OT
 7. ZxR | Time - 99H | OWNER
 8. OWNER | Time - 99H | OWNER
-
-1. Tensor2 | Time - 20S | OT
