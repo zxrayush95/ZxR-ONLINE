@@ -1,3 +1,3 @@
-1. Tensor1 | Time - 24H
+1. Tensor2 | Time - 24H
 2. Ayush | Time - 999H
 3. TestKey | Time - 1H
