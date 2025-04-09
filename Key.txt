@@ -7,4 +7,3 @@
 7. ZxR | Time - 99H | OWNER
 8. OWNER | Time - 99H | OWNER
 Ayush| Device Count: 3| Limit: 0
-TENSOR09| Device Count: 1| Limit: 1
