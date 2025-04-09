@@ -3,7 +3,7 @@
 3. TestKey | Time - 1H
 4. Test | Time - 1H
 5. Ayush2 | Time - 50S
-6. TENSOR09 | Time - 24H | OT | Limit - 1 | Limit: 1
 7. ZxR | Time - 99H | OWNER
 8. OWNER | Time - 99H | OWNER
 Ayush| Device Count: 3| Limit: 0
+TENSOR09| Device Count: 1| Limit: 1
