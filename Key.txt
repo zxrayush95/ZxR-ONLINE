@@ -12,3 +12,4 @@ TENSOR09| Device Count: 1| Limit: 1
 ZxR| Device Count: 1| Limit: 1| Device Name: 00000000-0000-0000-0000-33ea0d1692dc | DEVICE:47541147782114 | NAME:localhost
 
 1
+13. AC | Time - 24H | OT | device id: 233193 | END
