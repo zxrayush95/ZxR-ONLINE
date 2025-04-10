@@ -14,4 +14,4 @@ ZxR| Device Count: 1| Limit: 1| Device Name: 00000000-0000-0000-0000-33ea0d1692d
 1
 KEYTEST | device id: 894056 | OWNER
 
-13. AYUSH | Time - 24H | OT | device id: 999999 | END
+13. AYUSH | Time - 24H
