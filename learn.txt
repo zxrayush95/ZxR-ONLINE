@@ -396,3 +396,4 @@ TEXT:@MAFIA_OWNER4
 
 Ab ache se baat kregi
 TEXT:Tu scammer h
+TEXT:Randi
