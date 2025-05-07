@@ -20,7 +20,7 @@ OWNER_USERNAME = "ZxRTYREN"
 GITHUB_USERNAME = "zxrayush95"
 GITHUB_REPO = "ZxR-ONLINE"
 GITHUB_BRANCH = "main"
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = "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"
 
 # Custom logging format
 logging.basicConfig(
@@ -47,10 +47,13 @@ def log_operation(operation, details):
     for key, value in details.items():
         if key == "user":
             color = CYAN + BOLD
-        elif key == "status" and isinstance(value, str) and "failed" in value:
-            color = RED + BOLD
-        elif key == "status" and isinstance(value, str) and "success" in value:
-            color = GREEN + BOLD
+        elif key == "status" and isinstance(value, str):
+            if "failed" in value.lower():
+                color = RED + BOLD
+            elif "success" in value.lower():
+                color = GREEN + BOLD
+            else:
+                color = CYAN + BOLD
         else:
             color = CYAN + BOLD
         print(f"{color}{key}: {value}{RESET}")
