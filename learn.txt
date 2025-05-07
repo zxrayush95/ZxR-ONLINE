@@ -483,3 +483,4 @@ TEXT:🤨
 JO SIKHAOGE YE SIKH LEGA
 USERNAME
  - @ZxRGMBOT
+TEXT:🍌beta ye khane ka chiz he thik he
