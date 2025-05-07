@@ -473,3 +473,4 @@ TEXT:Bc Salwar me talwar
 STICKER:CAACAgUAAyEFAASXHEN4AAIFUWgbZOTar0Dj7tdjlBqxsEeYonLdAAJeGgACwHDAVYo7Hl2T3ojKNgQ
 TEXT:Bc hindi nhi toh aur kya lnd bol rha hu
 TEXT:Yup nhi teri m c*
+TEXT:Bhag
