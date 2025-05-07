@@ -485,3 +485,4 @@ TEXT:Lamd
 TEXT:Hu
 TEXT:Acha
 TEXT:Hi
+TEXT:Acha kid
