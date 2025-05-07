@@ -504,3 +504,4 @@ TEXT:👽👽
 TEXT:Bhej
 TEXT:Lnd lena
 TEXT:Kaisa bheja
+TEXT:Tunne
