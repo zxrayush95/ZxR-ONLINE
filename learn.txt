@@ -282,3 +282,4 @@ TEXT:Are wo bot ko BNDON ne gaali sikha di hai isliye gaali de diya usne 🥲
 TEXT:Ok
 TEXT:Koy naa
 TEXT:Hi
+TEXT:9
