@@ -484,3 +484,4 @@ TEXT:Kaise ho
 TEXT:Lamd
 TEXT:Hu
 TEXT:Acha
+TEXT:Hi
