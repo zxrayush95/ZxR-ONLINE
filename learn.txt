@@ -446,3 +446,4 @@ STICKER:CAACAgQAAyEFAASXHEN4AAIFU2gbduZBxF8oIda7QWUuOdahKgRXAAKHDwACzB2bDKx6DHJl
 TEXT:Bhai mere idhar delhi mai
 TEXT:Kuchh nhi hua
 TEXT:Dilhi me kahan?
+TEXT:South delhi
