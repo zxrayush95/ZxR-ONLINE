@@ -101,7 +101,6 @@ STICKER:CAACAgUAAyEFAASJQjOcAAIBdWgaX7u-6GHM2jpn6DY1YYbQlSZoAAIpAwACPq6wV1fy-NLs
 TEXT:Toda or acha bana dunga phir de dunga
 TEXT:Send kid
 TEXT:Abhi test phase me hai
-TEXT:Bc 😂😂
 TEXT:Bhag
 TEXT:Hello baby
 TEXT:No
@@ -189,7 +188,6 @@ TEXT:Ab bot reply ni krega ab bas sikhega
 TEXT:Hi
 TEXT:🌈
 TEXT:Hu
-TEXT:Bot gaya bc le mara mene
 TEXT:Kya bol raha
 TEXT:Hindi me bol
 TEXT:Hi
@@ -309,7 +307,6 @@ TEXT:Hi
 TEXT:Don't tag me kid
 TEXT:Bot tag kr rha hai
 TEXT:Bot ko hi keh rahe 😂
-TEXT:Bc
 TEXT:Tumse ache se baat kregi
 STICKER:CAACAgQAAyEFAASXHEN4AAIEe2gbOLyOvYGNyEsySgV-MDtDgIdVAAJbEAACIRR4U_Fbv32S4gtUNgQ
 TEXT:Nexus
@@ -446,9 +443,7 @@ TEXT:3.8 SOMETHING PATCHED ( BUT WE WILL FULLY MANAGE IT ) :
 TEXT:Haa wahi toh isko samjhao thoda
 STICKER:CAACAgQAAyEFAASXHEN4AAIFhmgbkOXpjYNLlCblm9PuBMDVP7teAALNCQAC7X7ZU24o62iXnX4-NgQ
 TEXT:😎
-TEXT:Bc Salwar me talwar
 STICKER:CAACAgUAAyEFAASXHEN4AAIFUWgbZOTar0Dj7tdjlBqxsEeYonLdAAJeGgACwHDAVYo7Hl2T3ojKNgQ
-TEXT:Bc hindi nhi toh aur kya lnd bol rha hu
 TEXT:Yup nhi teri m c*
 TEXT:Bhag
 STICKER:CAACAgUAAyEFAASXHEN4AAIEY2gbOGCIsFcphKgvTbAQVqyJ5w5IAAIHEQACtiiQVjwXdb5o-rf5NgQ
@@ -467,14 +462,12 @@ TEXT:🥭
 TEXT:😂😂😂🤣🤣
 TEXT:Aabe lnd me scammer hu
 TEXT:Aabw
-TEXT:Bc
 TEXT:Bhag
 TEXT:Nhi
 STICKER:CAACAgQAAyEFAASXHEN4AAIFtWgbkhHFX-nNZnftBHIrwvoflRQXAAIbCwACpvFxHjH-Kby1Am5MNgQ
 STICKER:CAACAgUAAyEFAASXHEN4AAIEY2gbOGCIsFcphKgvTbAQVqyJ5w5IAAIHEQACtiiQVjwXdb5o-rf5NgQ
 TEXT:Kela khaoge hamara 🍌
 STICKER:CAACAgUAAyEFAASXHEN4AAIFf2gbj_E1HgKF91cMmO1ULVqtatgiAAIhDwAC9HKwVhCorGoxKjw0NgQ
-TEXT:Tere owner pagal hogaya he bc tujhe bana rha he me Jo bol rha hu wo nhi Bana rha
 TEXT:Proof dun ye sab save horha ya ni?
 TEXT:Babu
 STICKER:CAACAgUAAyEFAASXHEN4AAIFw2gblV3RQYcQJMBhCzFreyjk7FLzAAKxFQACUVERVlcVoUD8k-bvNgQ
