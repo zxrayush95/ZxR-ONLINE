@@ -297,3 +297,4 @@ TEXT:@PRINCExGOKU
 TEXT:Hi
 TEXT:🤩 new Bot?
 TEXT:Now You Will Not Say Anything
+TEXT:Haan
