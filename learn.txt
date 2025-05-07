@@ -400,3 +400,4 @@ TEXT:Randi
 STICKER:CAACAgUAAyEFAASXHEN4AAIE9GgbWtpWQKBhk4omHHb3oby7Kz0rAAJ4DQACF7MgVlAcoxOyiVUoNgQ
 TEXT:Babu @ZeroX6T  iski gand maro ek baar
 TEXT:Babu me axha hu tum kesi ho
+TEXT:Server chhud rha hai baar baar timed out😐😢
