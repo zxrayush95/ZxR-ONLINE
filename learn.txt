@@ -487,3 +487,4 @@ STICKER:CAACAgQAAxkBAANuaBucwZh3KAyv2qhiGDXukMqNqXAAAuQaAAIIXShS13HFmD1F0kg2BA
 TEXT:Bot Under Maintenance 
 Wait For P1.4
 Filter All Gaali
+TEXT:Kaise ho
