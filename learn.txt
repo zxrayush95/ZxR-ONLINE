@@ -511,3 +511,4 @@ TEXT:Bot Under Maintenance
 Wait For P1.4
 Filter All Gaali
 TEXT:gaali
+TEXT:Bsdk
