@@ -263,3 +263,4 @@ TEXT:😭
 TEXT:Wahhh
 TEXT:Fake
 TEXT:Nahi
+TEXT:Achha nahi hai kisi ko gali dena
