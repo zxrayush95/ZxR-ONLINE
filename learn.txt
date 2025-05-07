@@ -325,3 +325,4 @@ TEXT:Hi
 TEXT:Don't tag me kid
 TEXT:Bot tag kr rha hai
 TEXT:Bot ko hi keh rahe 😂
+TEXT:Bc
