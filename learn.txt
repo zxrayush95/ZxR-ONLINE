@@ -483,3 +483,4 @@ Filter All Gaali
 TEXT:Kaise ho
 TEXT:Lamd
 TEXT:Hu
+TEXT:Acha
