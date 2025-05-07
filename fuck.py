@@ -46,13 +46,14 @@ def log_operation(operation, details):
     # Loop through the details and display them with appropriate formatting
     for key, value in details.items():
         if key == "user":
-            print(f"{BOLD}{CYAN}{key}: {value}{RESET}")
-        elif key == "status" and "failed" in value:
-            print(f"{BOLD}{RED}{key}: {value}{RESET}")
-        elif key == "status" and "success" in value:
-            print(f"{BOLD}{GREEN}{key}: {value}{RESET}")
+            color = CYAN + BOLD
+        elif key == "status" and isinstance(value, str) and "failed" in value:
+            color = RED + BOLD
+        elif key == "status" and isinstance(value, str) and "success" in value:
+            color = GREEN + BOLD
         else:
-            print(f"{BOLD}{CYAN}{key}: {value}{RESET}")
+            color = CYAN + BOLD
+        print(f"{color}{key}: {value}{RESET}")
     print("-" * 50 + "\n")
 
 def github_file_url(filename):
