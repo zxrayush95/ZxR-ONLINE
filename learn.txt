@@ -251,3 +251,4 @@ TEXT:Lund
 STICKER:CAACAgUAAyEFAASJQjOcAAICB2gaYjhDq5Pg_lofZ6PNTvWHtSjZAALhBgACZBvBVeevPsvFzMVUNgQ
 TEXT:Are ye sab bhi Sikh rha bot
 TEXT:Wtf
+TEXT:Randwe
