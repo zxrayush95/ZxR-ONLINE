@@ -484,3 +484,4 @@ TEXT:Kaise ho
 TEXT:LAND
 TEXT:Land
 TEXT:Land
+TEXT:LAND
