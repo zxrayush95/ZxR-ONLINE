@@ -439,3 +439,4 @@ TEXT:Arre shit yaar drone strike honi chahiye thi
 STICKER:CAACAgQAAyEFAASXHEN4AAIFRmgbX6PWULgx8gdIQ5M3AfD9d_8jAAKRAAOZVxEt_bsnkQe0L4U2BA
 TEXT:Gaali ke alawa kuch kaam ka nahi
 TEXT:White out ho raha idhar
+TEXT:Same
