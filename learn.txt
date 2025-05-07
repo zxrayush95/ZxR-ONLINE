@@ -491,3 +491,4 @@ TEXT:Aacha
 TEXT:👽👽👽
 TEXT:Pagal
 STICKER:CAACAgUAAyEFAASXHEN4AAIFx2gblfU-s-oMzNFAb0rnTQOlOuRqAAK1FQACaL2pVy6dmQaq9ypmNgQ
+TEXT:/remadmin
