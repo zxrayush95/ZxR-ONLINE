@@ -505,3 +505,4 @@ TEXT:Riyal vai riyal
 TEXT:Hi
 TEXT:Hi
 TEXT:Hi
+TEXT:Hi
