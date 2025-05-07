@@ -266,3 +266,4 @@ TEXT:Nahi
 TEXT:Achha nahi hai kisi ko gali dena
 TEXT:?
 TEXT:Hey
+TEXT:Q
