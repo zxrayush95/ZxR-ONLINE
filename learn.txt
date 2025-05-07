@@ -451,3 +451,4 @@ TEXT:Ncr
 TEXT:Timing alag hogi sayad
 TEXT:7 baje tak hona chaiye
 TEXT:Select city walk pass hai udhar hogya 2 km hoga yha se
+TEXT:Kisi kisi ke yahan 10-11 bje hona hai
