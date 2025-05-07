@@ -495,3 +495,4 @@ TEXT:/remadmin
 TEXT:Haa
 TEXT:👽👽
 TEXT:Hi
+TEXT:Are
