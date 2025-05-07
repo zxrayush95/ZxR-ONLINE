@@ -502,3 +502,4 @@ TEXT:Proof dun ye sab save horha ya ni?
 TEXT:Babu
 STICKER:CAACAgUAAyEFAASXHEN4AAIFw2gblV3RQYcQJMBhCzFreyjk7FLzAAKxFQACUVERVlcVoUD8k-bvNgQ
 TEXT:Riyal vai riyal
+TEXT:Hi
