@@ -481,7 +481,3 @@ TEXT:Bot Under Maintenance
 Wait For P1.4
 Filter All Gaali
 TEXT:Kaise ho
-TEXT:LAND
-TEXT:Land
-TEXT:Land
-TEXT:LAND
