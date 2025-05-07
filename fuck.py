@@ -20,7 +20,7 @@ OWNER_USERNAME = "ZxRTYREN"
 GITHUB_USERNAME = "zxrayush95"
 GITHUB_REPO = "ZxR-ONLINE"
 GITHUB_BRANCH = "main"
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = "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"
 
 # Custom logging format
 logging.basicConfig(
