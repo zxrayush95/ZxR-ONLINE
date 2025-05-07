@@ -482,3 +482,4 @@ Wait For P1.4
 Filter All Gaali
 TEXT:Kaise ho
 TEXT:Lamd
+TEXT:Hu
