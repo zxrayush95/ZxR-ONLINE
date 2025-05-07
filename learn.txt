@@ -327,3 +327,4 @@ TEXT:Bot tag kr rha hai
 TEXT:Bot ko hi keh rahe 😂
 TEXT:Bc
 TEXT:Tumse ache se baat kregi
+STICKER:CAACAgQAAyEFAASXHEN4AAIEe2gbOLyOvYGNyEsySgV-MDtDgIdVAAJbEAACIRR4U_Fbv32S4gtUNgQ
