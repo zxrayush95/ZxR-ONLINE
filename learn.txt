@@ -507,3 +507,4 @@ TEXT:Kaisa bheja
 TEXT:Tunne
 TEXT:QT
 TEXT:QT❤️❤️
+TEXT:a for Apple
