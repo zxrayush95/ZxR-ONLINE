@@ -1,2 +1,2 @@
-MessageBox1=true
-MessageBox2=false
+title=Info:
+message=Version - 2.5 ( Magic Removed Temp ) [ Fully Safe ]
