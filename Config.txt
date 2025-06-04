@@ -1,1 +1,2 @@
-
+MessageBox1=true
+MessageBox2=false
