@@ -1,0 +1,3 @@
+Box1 = true
+Box2 = false
+Skin = true
