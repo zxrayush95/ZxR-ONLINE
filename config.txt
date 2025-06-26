@@ -1,3 +1,6 @@
 continue = true
+Box1 = true
+Box2 = false
+Skin = true
 info = Welcome!
 Text2 = Login Successful!
