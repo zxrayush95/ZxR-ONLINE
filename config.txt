@@ -1,0 +1,3 @@
+continue = true
+info = Hello
+text2 = Welcome to the loader!
