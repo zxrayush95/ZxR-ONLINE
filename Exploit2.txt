@@ -1,0 +1,5 @@
+continue = true
+Box2 = true
+Skin = false
+info = Welcome!
+Text2 = Loading In Normal Mode!
