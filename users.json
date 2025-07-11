@@ -4,5 +4,11 @@
     "password": "test_password",
     "telegram_id": 123456789,
     "referral_key": "TEST_REF"
+  },
+  "user_52263272": {
+    "username": "user_52263272",
+    "password": "demo_password",
+    "telegram_id": 52263272,
+    "referral_key": "DEMO7D3271"
   }
 }
