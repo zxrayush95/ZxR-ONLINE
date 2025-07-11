@@ -1,1 +1,8 @@
-{}
+{
+  "test_user": {
+    "username": "test_user",
+    "password": "test_password",
+    "telegram_id": 123456789,
+    "referral_key": "TEST_REF"
+  }
+}
