@@ -1,2 +1,2 @@
 2HxZxRAYUSH-GKF7B7 | 2H | UN-USED |  |  | 
-1DxTestUser-ABC123 | 1D | UN-USED |  |  | 
+1DxTestUser-ABC123 | 1D | ACTIVE | 2025-07-11 19:46:40 | device_123 | 2025-07-12 19:46:40
