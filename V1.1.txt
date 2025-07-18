@@ -1,5 +1,5 @@
-continue = true
-Box2 = true
+continue = false
+Box2 = false
 Skin = false
 Error! = Welcome!
-Text2 = Loading Via BGMIX v1.1!
+Text2 = Server Issue ( Fully Fixed Update Your Mod )!
