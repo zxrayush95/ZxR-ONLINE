@@ -1,5 +1,5 @@
-continue = true
+continue = false
 Box2 = true
 Skin = false
-info = Welcome!
-Text2 = Loading Via BGMIX v1.0!
+Error! = Welcome!
+Text2 = https 404 | /connect failed update mod!
