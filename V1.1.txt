@@ -2,4 +2,4 @@ continue = true
 Box2 = true
 Skin = false
 info = Welcome!
-Text2 = Loading Via BGMIX v1.1!
+Text2 = Loading Via BGMIX v1.0!
