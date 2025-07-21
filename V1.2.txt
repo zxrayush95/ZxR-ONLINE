@@ -1,5 +1,5 @@
-continue = true
+continue = false
 Box2 = true
 Skin = false
 info = BGMIX!
-Text2 = Loading In BGMIX [v1.2]!
+Text2 = Sorry For Inconvenience - [ Server Is Experiencing DDOS Attack ] | We Are Working On It & Will Be Fixed Soon
