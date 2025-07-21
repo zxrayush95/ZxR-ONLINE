@@ -1,6 +1,6 @@
 continue = true
 Box2 = true
-VehicleSpeed = true
+VehicleSpeed = false
 Skin = false
 info = BGMIX!
 Text2 = Loading In BGMIX [v1.2]!
