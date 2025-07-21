@@ -2,4 +2,4 @@ continue = false
 Box2 = false
 Skin = false
 info = Welcome!
-Text2 = UPDATE AVAILABLE! \n[v1.2] UPDATE AVAILABLE UPDATE YOUR MOD!
+Text2 = [v1.2] UPDATE AVAILABLE UPDATE YOUR MOD!
