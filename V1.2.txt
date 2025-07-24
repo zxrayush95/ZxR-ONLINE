@@ -1,5 +1,5 @@
-continue = true
-Box2 = true
+continue = false
+Box2 = false
 Skin = false
 info = BGMIX!
-Text2 = LOADING IN [BGMIX v1.2]
+Text2 = UPDATE AVAILABLE FOR [BGMI V1.3]
