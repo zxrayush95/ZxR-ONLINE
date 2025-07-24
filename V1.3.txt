@@ -1,0 +1,5 @@
+continue = true
+Box2 = true
+Skin = false
+info = BGMIX!
+Text2 = LOADING IN [BGMIX v1.3]
