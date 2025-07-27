@@ -1,5 +1,5 @@
-continue = true
+continue = false
 Box3 = true
 Skin = false
 info = BGMIX!
-Text2 = Server On Maintanence!🥲 Dont Worry We Will Be Back Soon...❤️
+Text2 = UPDATE AVAILABLE FOR [v1.4]
