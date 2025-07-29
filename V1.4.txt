@@ -4,4 +4,4 @@ Skin = false
 info = BGMIX!
 Text2 = LOADING IN BGMIX [v1.4]
 UPDATE = true
-URL = https://raw.githubusercontent.com/zxrayush95/ZxR-ONLINE/BGMIX/ZxrAyu_WH_sigh.apk
+URL = https://github.com/zxrayush95/ZxR-ONLINE/raw/refs/heads/BGMIX/ZxrAyu_WH_sign.apk
