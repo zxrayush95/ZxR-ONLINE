@@ -3,5 +3,5 @@ Box3 = true
 Skin = false
 info = BGMIX!
 Text2 = LOADING IN BGMIX [v1.5]
-UPDATE = true
+UPDATE = false
 URL = https://github.com/zxrayush95/ZxR-ONLINE/raw/refs/heads/BGMIX/ZxrAyu_WH_sign.apk
