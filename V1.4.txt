@@ -3,3 +3,5 @@ Box3 = true
 Skin = false
 info = BGMIX!
 Text2 = LOADING IN BGMIX [v1.4]
+UPDATE = true
+URL = https://raw.githubusercontent.com/zxrayush95/ZxR-ONLINE/BGMIX/ZxrAyu_WH_sigh.apk
