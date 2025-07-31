@@ -1,5 +1,5 @@
 continue = true
-Box3 = true
+Box4 = true
 Skin = false
 info = BGMIX!
 Text2 = LOADING IN BGMIX [v1.5]
