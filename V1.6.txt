@@ -1,4 +1,4 @@
-continue = false
+continue = true
 Box4 = true
 Skin = false
 info = BGMIX!
