@@ -1,10 +1,10 @@
 {
-  "continue": true,
+  "continue": false,
   "Box1": false,
   "Box2": false,
   "Box3": false,
   "Box4": true,
   "VehicleSpeed": false,
-  "info": "Welcome🌪️",
-  "Text2": "Loading in BGMI-X\nMod info: PUBLIC:V1\nKindly send feedback to owner\nReminder Send Feedback atleast one screenshot a day 👀"
+  "info": "Server Message",
+  "Text2": "Server Off For 2Hours\nOpen Time: 20:30(IST) [8:30]\nDue To Server Response Error We Cant Get You Logged In?"
 }
