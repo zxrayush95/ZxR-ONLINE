@@ -1,10 +1,10 @@
 {
-  "continue": true,
+  "continue": false,
   "Box1": false,
   "Box2": false,
   "Box3": false,
   "Box4": true,
   "VehicleSpeed": false,
-  "info": "ℹ️ Welcome",
-  "Text2": "🔰 BGMI-X PUBLIC [v1]"
+  "info": "ℹ️ Server OFF [V1]",
+  "Text2": "🔰 V2 [ Update Available ]"
 }
