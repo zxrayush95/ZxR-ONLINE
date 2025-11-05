@@ -1,4 +1,4 @@
 {
-  "version": "7.1",
+  "version": "7.2",
   "libLink": "https://github.com/ZxRAYUSH95/ZxR-ONLINE/raw/refs/heads/BGMIX/libpubgm.so"
 }
