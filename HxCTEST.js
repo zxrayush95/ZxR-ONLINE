@@ -1,4 +1,4 @@
 {
-  "version": "13.6",
+  "version": "13.7",
   "libLink": "https://github.com/ZxRAYUSH95/ZxR-ONLINE/raw/refs/heads/BGMIX/libTEST.so"
 }
