@@ -3,8 +3,8 @@
   "Box1": false,
   "Box2": true,
   "Box3": false,
-  "Box4": true,
-  "VehicleSpeed": true,
+  "Box4": false,
+  "VehicleSpeed": false,
   "info": "Welcome:",
   "Text2": "This Is Testing Server"
 }
