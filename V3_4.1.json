@@ -1,10 +1,10 @@
 {
-  "continue": true,
+  "continue": false,
   "Box1": false,
   "Box2": true,
   "Box3": false,
   "Box4": false,
   "VehicleSpeed": false,
   "info": "Login Info",
-  "Text2": "Login Done ✅"
+  "Text2": "Server On Maintanence ❌"
 }
