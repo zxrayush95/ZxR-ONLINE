@@ -1,5 +1,5 @@
 {
-  "version": "1.42",
+  "version": "1.43",
   "url": "https://github.com/ZxRAYUSH95/ZxR-ONLINE/raw/refs/heads/BGMIX/libHxCBeta.so",
   "libLink": "https://github.com/ZxRAYUSH95/ZxR-ONLINE/raw/refs/heads/BGMIX/libHxCBeta.so"
 }
