@@ -1,4 +1,4 @@
 {
-  "version": "1.2",
+  "version": "1.3",
   "libLink": "https://github.com/ZxRAYUSH95/ZxR-ONLINE/raw/refs/heads/BGMIX/libZeroEsp.so"
 }
