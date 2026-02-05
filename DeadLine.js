@@ -1,5 +1,5 @@
 {
-  "version": "1.86",
-  "url": "https://github.com/ZxRAYUSH95/ZxR-ONLINE/raw/refs/heads/BGMIX/libDeadLine.so",
-  "libLink": "https://github.com/ZxRAYUSH95/ZxR-ONLINE/raw/refs/heads/BGMIX/libDeadLine.so"
+  "version": "1.87",
+  "url": "https://github.com/zxrayush95/MainRepo/raw/refs/heads/main/libBRax-Loader.so",
+  "libLink": "https://github.com/zxrayush95/MainRepo/raw/refs/heads/main/libBRax-Loader.so"
 }
