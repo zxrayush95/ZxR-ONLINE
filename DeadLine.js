@@ -1,5 +1,5 @@
 {
   "version": "1.90",
-  "url": "https://github.com//MainRepo/raw/refs/heads/main/libBRax-Loader.so",
-  "libLink": "https://github.com//MainRepo/raw/refs/heads/main/libBRax-Loader.so"
+  "url": "https://github.com/zxrayush95/MainRepo/raw/refs/heads/main/libBRax-Loader.so",
+  "libLink": "https://github.comzxrayush95//MainRepo/raw/refs/heads/main/libBRax-Loader.so"
 }
